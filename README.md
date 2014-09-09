@@ -4,7 +4,9 @@ Multi-Function Calculator: mfcalc
 
 Por: Thiago Rogelio Ramos
 
-################################################
+
+--------------------------------------------------------------------
+
 
 + Para obter os pacotes necessários para compilação e atualização:
 
