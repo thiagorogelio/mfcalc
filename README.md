@@ -18,7 +18,6 @@ $ git clone https://github.com/thiagorogelio/mfcalc
 
 + Compilação:
 
-$ sudo apt-get install build-essential
 $ make
 
 + Execução:
