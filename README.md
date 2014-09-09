@@ -6,11 +6,19 @@ Por: Thiago Rogelio Ramos
 
 ################################################
 
-Compilação:
++ Para obter os pacotes necessários para compilação e atualização:
 
-$sudo apt-get install build-essential
-$make
+$ sudo apt-get install git build-essential
 
-Execução:
++ Para obter a versão mais atualizada deste programa:
 
-$./calc
+$ git clone https://github.com/thiagorogelio/mfcalc
+
++ Compilação:
+
+$ sudo apt-get install build-essential
+$ make
+
++ Execução:
+
+$ ./calc
