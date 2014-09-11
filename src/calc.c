@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-void yyerror(char const *s){fprintf (stderr, "%s\n", s);}
+void yyerror(char const *s){fprintf (stderr, "%s\n> ", s);}
 
 symrec *putsym (char const *sym_name, int sym_type)
 {

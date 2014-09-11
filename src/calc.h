@@ -2,8 +2,9 @@
 #define CALC_H
 
 #define TYP_VAR 0
-#define TYP_NAT_FNCT 1
-#define TYP_FNCT 2
+#define TYP_ARIT_FNCT 1
+#define TYP_NAT_FNCT 2
+#define TYP_FNCT 3
 
 typedef double (*func_t) (double);
 
